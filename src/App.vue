@@ -51,7 +51,7 @@
       </div>
     </div>
     <div class="wrap">
-      <div class="bg-output col-6 col-sm-10">
+      <div class="bg-output col-6 col-sm-12">
         <div class="d-flex" style="justify-content:space-between;">
           <h4>Output</h4>
           <div style="cursor:pointer" @click="copyOutput" ref="copyElement">Copy</div>
