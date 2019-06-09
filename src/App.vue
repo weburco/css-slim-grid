@@ -2,7 +2,7 @@
   <div id="app">
     <div class="wrap title">
       <h1>Bootsrap Slim Grid 1.0</h1>
-      <a href>
+      <a href="https://github.com/weburus/Bootstrap-Slim-Grid">
         <div class="d-flex">
           <h5>Github</h5>
           <div class="icon">
